@@ -15,23 +15,30 @@ Unlike traditional platforms, FreelancerChain eliminates the middleman, reduces 
 
 We are a team of passionate developers building the future of work on Web3.
 
-*   **Team Leader:** [Name] - [GitHub Link]
-*   **Member 1:** [Name] - [GitHub Link]
-*   **Member 2:** [Name] - [GitHub Link]
+*   **Team Leader:** Patel Prince - https://github.com/PrincePatel-dev
+*   **Member 1:** Vraj Shah - https://github.com/aenozs989-ops
+*   **Member 2:** Patel Neel - https://github.com/pneel0804-debug
 
 ## 🛠️ Tech Stack
 
 *   **Blockchain:** Avalanche (Fuji Testnet)
 *   **Smart Contract:** Solidity
 *   **Frontend:** HTML5, CSS3, JavaScript (Ethers.js)
-*   **Wallet Connection:** Metamask / Core Wallet
+*   **Wallet Connection:**  Core Wallet
 
 ## 📦 How to Run
 
 1.  Clone the repository.
 2.  Open `index.html` in your browser.
-3.  Connect your Metamask wallet (ensure you are on Avalanche Fuji Testnet).
+3.  Connect your Core wallet (ensure you are on Avalanche Fuji Testnet).
 
 ## 🌐 Live Demo
 
-[Link to your hosted GitHub Pages website will go here]
+https://PrincePatel-dev.github.io/FreelancerChain/
+
+## 📸 Screenshots
+
+![Screenshot 1](images/web31.png)
+![Screenshot 2](images/web32.png)
+![Screenshot 3](images/web33.png)
+![Screenshot 4](images/web34.png)
