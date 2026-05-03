@@ -16,8 +16,7 @@ Unlike traditional platforms, FreelancerChain eliminates the middleman, reduces 
 We are a team of passionate developers building the future of work on Web3.
 
 *   **Team Leader:** Patel Prince - https://github.com/PrincePatel-dev
-*   **Member 1:** Vraj Shah - https://github.com/aenozs989-ops
-*   **Member 2:** Patel Neel - https://github.com/pneel0804-debug
+*   **Member 1:** Patel Neel - https://github.com/pneel0804-debug
 
 ## 🛠️ Tech Stack
 
